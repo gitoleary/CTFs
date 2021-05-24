@@ -1,0 +1,9 @@
+#BASIC PENTESTING
+
+#10.10.9.140
+
+#Open Ports
+'22'
+'80'
+'139'
+'445'
